@@ -33,3 +33,11 @@ C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debu
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.dll
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.pdb
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.genruntimeconfig.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.csproj.CoreCompileInputs.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cache
