@@ -1,0 +1,9 @@
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.deps.json
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csprojAssemblyReference.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csproj.CoreCompileInputs.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.pdb

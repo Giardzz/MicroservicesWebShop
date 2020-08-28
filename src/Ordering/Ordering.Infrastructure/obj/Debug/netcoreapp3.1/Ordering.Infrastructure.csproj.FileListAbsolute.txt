@@ -1,0 +1,15 @@
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.deps.json
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.json
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.runtimeconfig.dev.json
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\Ordering.Infrastructure\obj\Debug\netcoreapp3.1\Ordering.Infrastructure.genruntimeconfig.cache
