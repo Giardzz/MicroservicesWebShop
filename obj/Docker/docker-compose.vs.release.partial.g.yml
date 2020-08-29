@@ -2,7 +2,6 @@ version: '3.4'
 
 services:
   basket.api:
-    container_name: Basket.API
     build:
       labels:
         com.microsoft.created-by: "visual-studio"
@@ -21,7 +20,6 @@ services:
       com.microsoft.visual-studio.project-name: "Basket.API"
     tty: true
   catalog.api:
-    container_name: Catalog.API
     build:
       labels:
         com.microsoft.created-by: "visual-studio"

@@ -3,7 +3,6 @@ version: '3.4'
 services:
   basket.api:
     image: basketapi:dev
-    container_name: Basket.API
     build:
       target: base
       labels:
@@ -31,7 +30,6 @@ services:
     tty: true
   catalog.api:
     image: catalogapi:dev
-    container_name: Catalog.API
     build:
       target: base
       labels:

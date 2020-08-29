@@ -6,3 +6,4 @@ C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Common\EventBusRabbitMQ\ob
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.AssemblyInfo.cs
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Common\EventBusRabbitMQ\obj\Debug\netcoreapp3.1\EventBusRabbitMQ.csprojAssemblyReference.cache
