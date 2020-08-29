@@ -76,3 +76,7 @@ C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\bin\D
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.CoreCompileInputs.cache
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\Giardz\source\repos\MicroservicesWebShop\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
