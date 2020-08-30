@@ -18,7 +18,7 @@ services:
         ports:
             - "1433:1433"
         environment:
-            SA_PASSWORD: "SApassword"
+            SA_PASSWORD: "SApassword123@"
             ACCEPT_EULA: "Y"
 
     rabbitmq:
@@ -59,7 +59,7 @@ services:
         restart: on-failure
         environment:
             - ASPNETCORE_ENVIRONMENT=Development
-            - "ConnectionStrings:OrderConnection=Server=orderdb;Database=OrderDb;User Id=sa;Password=SApassword"
+            - "ConnectionStrings:OrderConnection=Server=orderdb;Database=OrderDb;User Id=sa;Password=SApassword123@"
             - "EventBus:HostName=rabbitmq"
         depends_on:
             - orderdb
@@ -69,4 +69,18 @@ services:
             - ${HOME}/.aspnet/https:/root/.aspnet.https
         ports:
             - "8002:80"
+
+    ocelotapigateway:
+        container_name: ocelotapigateway
+        depends_on:
+            - catalog.api
+            - basket.api
+            - ordering.api
+        volumes:
+            - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+            - ${HOME}/.aspnet/https:/root/.aspnet.https
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+        ports:
+            - "7000:80"
 
